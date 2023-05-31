@@ -1,0 +1,11 @@
+.img-logo-topo{
+    max-width:8EM;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    margin: 0;
+}
+
+.display{
+    display: inline-block;
+}
